@@ -61,4 +61,11 @@
 		<director>Jordan Peele</director>
 		<releaseDate>17 March 2017</releaseDate>
 	</film>
+	<film category="thriller">
+		<title>Jaws</title>
+		<description>When a young woman is killed by a shark while skinny-dipping near the New England tourist town of Amity Island, police chief Martin Brody (Roy Scheider) wants to close the beaches, but mayor Larry Vaughn (Murray Hamilton) overrules him, fearing that the loss of tourist revenue will cripple the town. Ichthyologist Matt Hooper (Richard Dreyfuss) and grizzled ship captain Quint (Robert Shaw) offer to help Brody capture the killer beast, and the trio engage in an epic battle of man vs. nature.</description>
+		<director>Steven Spielberg</director>
+		<releaseDate>26 December 1975</releaseDate>
+	</film>
+		
 </dvd>
