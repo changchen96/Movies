@@ -73,4 +73,34 @@
 		<director>Steven Spielberg</director>
 		<releaseDate>28 March 2018</releaseDate>
 	</film>
+	<film category="animation">
+		<title>Your Name</title>
+		<description>A teenage boy and girl embark on a quest to meet each other for the first time after they magically swap bodies.</description>
+		<director>Makoto Shinkai</director>
+		<releaseDate>18 November 2016</releaseDate>
+	</film>
+	<film category="animation">
+		<title>The Girl Who Leapt Through Time</title>
+		<description>A teenage girl tries to use her newfound ability to travel through time to her advantage.</description>
+		<director>Mamoru Hosoda</director>
+		<releaseDate>19 September 2008</releaseDate>
+	</film>
+	<film category="thriller">
+		<title>Sicario 2: Day of the Soldado</title>
+		<description>FBI agent Matt Graver calls on mysterious operative Alejandro Gillick when Mexican drug cartels start to smuggle terrorists across the U.S. border. The war escalates even further when Alejandro kidnaps a top kingpin's daughter to deliberately increase the tensions. When the young girl is seen as collateral damage, the two men will determine her fate as they question everything that they are fighting for.</description>
+		<director>Stefano Sollima</director>
+		<releaseDate>29 June 2018</releaseDate>
+	</film>
+	<film category="crime">
+		<title>The Godfather</title>
+		<description>Widely regarded as one of the greatest films of all time, this mob drama, based on Mario Puzo's novel of the same name, focuses on the powerful Italian-American crime family of Don Vito Corleone (Marlon Brando). When the don's youngest son, Michael (Al Pacino), reluctantly joins the Mafia, he becomes involved in the inevitable cycle of violence and betrayal. Although Michael tries to maintain a normal relationship with his wife, Kay (Diane Keaton), he is drawn deeper into the family business.</description>
+		<director>Francis Ford Coppola</director>
+		<releaseDate>24 August 1972</releaseDate>
+	</film>
+	<film category="crime">
+		<title>Scarface</title>
+		<description>After getting a green card in exchange for assassinating a Cuban government official, Tony Montana (Al Pacino) stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.</description>
+		<director>Brian De Palma</director>
+		<releaseDate>30 March 1984</releaseDate>
+	</film>
 </dvd>
