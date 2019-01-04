@@ -15,7 +15,7 @@
 	</tr>
 	<tbody>
 	<?php
-	$movies = simplexml_load_file('movieXMLdefault.xml') or die("Error loading file!");
+	$movies = simplexml_load_file('movieXML.xml') or die("Error loading file!");
 	foreach($movies->children() as $dvd)
 	{
 		echo '<tr>';
