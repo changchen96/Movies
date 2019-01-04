@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movieXSLT.xsl"?>
+<dvd>
+    <film category = "action">
+        <title>Mad Max: Fury Road</title>
+        <description>Years after the collapse of civilization, the tyrannical Immortan Joe enslaves apocalypse survivors inside the desert fortress the Citadel. When the warrior Imperator Furiosa (Charlize Theron) leads the despot's five wives in a daring escape, she forges an alliance with Max Rockatansky (Tom Hardy), a loner and former captive. Fortified in the massive, armored truck the War Rig, they try to outrun the ruthless warlord and his henchmen in a deadly high-speed chase through the Wasteland.</description>
+        <director>George Miller</director>
+        <releaseDate>14 May 2015</releaseDate>
+    </film>
+    <film category="action">
+        <title>John Wick 2</title>
+        <description>Retired super-assassin John Wick's plans to resume a quiet civilian life are cut short when Italian gangster Santino D'Antonio shows up on his doorstep with a gold marker, compelling him to repay past favors. Ordered by Winston, kingpin of secret assassin society The Continental, to respect the organization's ancient code, Wick reluctantly accepts the assignment to travel to Rome to take out D'Antonio's sister, the ruthless capo atop the Italian Camorra crime syndicate.</description>
+        <director>Chad Staleski</director>
+        <releaseDate>17 February 2017</releaseDate>
+    </film>
+    <film category = "drama">
+        <title>City of God</title>
+        <description>In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket (Alexandre Rodrigues) is a budding photographer who documents the increasing drug-related violence of his neighborhood. José "Zé" Pequeno (Leandro Firmino da Hora) is an ambitious drug dealer who uses Rocket and his photos as a way to increase his fame as a turf war erupts with his rival, "Knockout Ned" (Seu Jorge). The film was shot on location in Rio's poorest neighborhoods.</description>
+        <director> Fernando Meirelles, Kátia Lund</director>
+        <releaseDate>3 January 2003</releaseDate>
+    </film>
+    <film category="drama">
+        <title>Saving Private Ryan</title>
+        <description>Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a personal journey and discovers their own strength to triumph over an uncertain future with honor, decency and courage</description>
+        <director>Steven Spielberg</director>
+        <releaseDate>11 September 1998</releaseDate>
+    </film>
+    <film category="drama">
+        <title>Fight Club</title>
+        <description>A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention.</description>
+        <director>David Fincher</director>
+        <releaseDate>12 November 1999</releaseDate>
+    </film>
+    <film category="thriller">
+        <title>Taxi Driver</title>
+        <description>Suffering from insomnia, disturbed loner Travis Bickle (Robert De Niro) takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city. When Travis meets pretty campaign worker Betsy (Cybill Shepherd), he becomes obsessed with the idea of saving the world, first plotting to assassinate a presidential candidate, then directing his attentions toward rescuing 12-year-old prostitute Iris (Jodie Foster).</description>
+        <director>Martin Scorsese</director>
+        <releaseDate>8 February 1976</releaseDate>
+    </film>
+    <film category="documentary">
+        <title>Senna</title>
+        <description>Ayrton Senna becomes a three-time Formula One racing champion and Brazil's national hero before his untimely death at age 34.</description>
+        <director>Asif Kapadia</director>
+        <releaseDate>3 June 2011</releaseDate>
+    </film>
+	<film category="animation">
+		<title>The Anthem of the Heart</title>
+		<description>A girl has her voice magically taken away so she can't hurt anyone with it until her outlook on life is changed by music and friendship.</description>
+		<director>Tatsuyuki Nagai</director>
+		<releaseDate>19 September 2015</releaseDate>
+	</film>
+	<film category="animation">
+		<title>Spider-Man: Into the Spider-Verse</title>
+		<description>Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets Peter Parker, he soon realizes that there are many others who share his special, high-flying talents. Miles must now use his newfound skills to battle the evil Kingpin, a hulking madman who can open portals to other universes and pull different versions of Spider-Man into our world.</description>
+		<director>Bob Persichetti, Peter Ramsey, Rodney Rothman</director>
+		<releaseDate>12 December 2018</releaseDate>
+	</film>
+	<film category="horror">
+		<title>Get Out</title>
+		<description>Now that Chris (Daniel Kaluuya) and his girlfriend, Rose (Allison Williams), have reached the meet-the-parents milestone of dating, she invites him for a weekend getaway upstate with Missy and Dean. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.</description>
+		<director>Jordan Peele</director>
+		<releaseDate>17 March 2017</releaseDate>
+	</film>
+</dvd>
