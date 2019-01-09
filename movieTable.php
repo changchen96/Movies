@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>My Movie Database</title>
+</head>
 <meta charset='utf-8' />
 <body>
 <h2>My Movie Database</h2>
@@ -30,4 +31,4 @@
 	</tbody>
 </table>
 </body>
-</head>
+</html>
